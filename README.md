@@ -20,5 +20,3 @@ Ele permite adicionar tarefas, listar todas as tarefas e marcar tarefas como con
    - Digite `4` para sair do programa.
 3. Ao marcar uma tarefa concluída, ela aparece com `[X]`.
 
-## Exemplo de uso
-
